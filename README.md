@@ -7,6 +7,11 @@
 * [Murphy - Machine Learning: A Probabilistic Perspective](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
+## Papers
+
+## Tutorials and Blog Posts
+
+
 ## Video
 
 **Deep Learning:**
