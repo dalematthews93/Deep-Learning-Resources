@@ -66,5 +66,10 @@
     * [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
 ## Papers
+* [Curated list of most cited papers and links to other repos of papers for beginners etc](https://github.com/terryum/awesome-deep-learning-papers)
 
-## Tutorials and Blog Posts
+## Tutorials
+
+## Blogs
+* [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
+* [Colah's Blog](https://colah.github.io/)
