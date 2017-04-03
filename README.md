@@ -1,11 +1,13 @@
 # Deep Learning Resources
 
-
-**Deep Learning Book:**
+## Books
 
 * [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
+* [Bishop - Pattern Reconition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Murphy - Machine Learning: A Probabilistic Perspective](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
+* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
-# Video
+## Video
 
 **Deep Learning:**
 
@@ -46,3 +48,15 @@
     * [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7)
     * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
 * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
+
+## Social Media
+* [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
+* [r/MachineLearning](https://www.reddit.com/r/machinelearning)
+* [r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
+
+## Linear Algebra
+* [Khan Academy](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
+* [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
+
+
