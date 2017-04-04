@@ -1,4 +1,4 @@
-# Deep Learning Resources
+# Machine Learning and Neural Networks Resources
 
 ## Introduction to Machine Learning and Neural Networks for Beginners
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines, neural networks and backpropagation
@@ -6,8 +6,8 @@
 * [Introduction to Neural Networks](http://neuralnetworksanddeeplearning.com) - provides a thorough introduction to neural networks which can serve as a stepping stone to more advanced material
 * **Udacity**
 
-   Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find them floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need some understanding of the mathematical underpinnings.
-
+   Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects.
+   
     * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
     * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
         * Supvervised Learning 
@@ -40,7 +40,7 @@
 **General Introductory Machine Learning Courses:**
 
 * [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
-* [Machine Learning - mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+* [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
 * [Machine Learning - Nando de Freitas - 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 * [Undergraduate Machine Learning - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 * [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/playlist?list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
