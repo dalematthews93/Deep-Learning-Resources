@@ -5,17 +5,16 @@
 * [Machine Learning by Andrew Ng (Coursera)](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP) - this is a very popular massive online course on machine learning created by Andrew Ng of Stanford and Baidu. It fleshes out many of the ideas in the Berkeley crash course in more detail and does not require a background in calculus.
 * **Udacity**
 
+   Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find them floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need some understanding of the mathematical underpinnings.
 
-Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find them floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need some understanding of the mathematical underpinnings.
-
-    * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
-    * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
-        * Supvervised Learning 
-            * [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo)
-            * [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)
-        * [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7)
-        * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
-    * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
+       * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
+       * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
+           * Supvervised Learning 
+               * [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo)
+               * [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)
+           * [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7)
+           * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
+       * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 
 #### Math
 * [Khan Academy](https://www.khanacademy.org)
