@@ -2,7 +2,7 @@
 
 ## Beginners
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines and neural networks
-
+* [Machine Learning by Andrew Ng (Coursera)](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
 
 ## Books
 
