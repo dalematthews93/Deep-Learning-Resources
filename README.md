@@ -1,5 +1,9 @@
 # Deep Learning Resources
 
+## Beginners
+* [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines and neural networks
+
+
 ## Books
 
 * [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
