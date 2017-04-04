@@ -4,7 +4,10 @@
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines, neural networks and backpropagation
 * [Machine Learning by Andrew Ng (Coursera)](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP) - this is a very popular massive online course on machine learning created by Andrew Ng of Stanford and Baidu. It fleshes out many of the ideas in the Berkeley crash course in more detail and does not require a background in calculus.
 * **Udacity**
-    * Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find the floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need to understand the math and theory
+
+
+Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find them floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need some understanding of the mathematical underpinnings.
+
     * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
     * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
         * Supvervised Learning 
