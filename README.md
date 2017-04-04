@@ -48,10 +48,9 @@
 * [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
 
 **Deep Learning:**
+* [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) - very beginner friendly series of five lectures that introduces neural networks and different architectures including convolutional neural networks, recurrent neural networks and long short term memory neural networks and some of their applications and the most exciting and impressive results of the last couple of years
 
-* [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-
-    [Invited Talks MIT Deep Learning for Self Driving Cars ](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW)
+    [Invited Talks MIT Deep Learning for Self Driving Cars ](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW) - talks from a number of the most respected researchers in deep learning
 * [Deep Learning for NLP at Oxford with Deep Mind 2017](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Convolutional Neural Networks - Andrej Kaparthy (OpenAI)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 * [Neural Networks — Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
