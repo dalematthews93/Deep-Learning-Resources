@@ -1,8 +1,9 @@
 # Deep Learning Resources
 
-## Introduction to Machine Learning for Beginners
+## Introduction to Machine Learning and Neural Networks for Beginners
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines, neural networks and backpropagation
 * [Machine Learning by Andrew Ng (Coursera)](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP) - this is a very popular massive online course on machine learning created by Andrew Ng of Stanford and Baidu. It fleshes out many of the ideas in the Berkeley crash course in more detail and does not require a background in calculus.
+* [Neural Networks eBook](http://neuralnetworksanddeeplearning.com) - provides a thorough introduction to neural networks for beginners which can serve as a stepping stone to more advanced courses
 * **Udacity**
 
    Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects (or you might be able to find them floating around on the internet). This is a good option for anyone who wants a more practical approach although if you want to go deeper you will need some understanding of the mathematical underpinnings.
@@ -72,5 +73,5 @@
 ## Other
 * [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
 * [Colah's Blog](https://colah.github.io/)
-* [Neural Networks eBook](http://neuralnetworksanddeeplearning.com)
+
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
