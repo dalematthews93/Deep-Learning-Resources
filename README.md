@@ -1,4 +1,4 @@
-# Machine Learning and Neural Networks Resources
+# Machine Learning and Neural Networks Resources (WIP)
 
 ## Introduction to Machine Learning and Neural Networks for Beginners
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - short introduction to the ideas of regression, classification, cost functions, gradient descent, support vector machines, neural networks and backpropagation
