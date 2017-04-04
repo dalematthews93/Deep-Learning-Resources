@@ -72,8 +72,7 @@
 ## Papers
 * [Curated list of most cited papers and links to other repos of papers for beginners etc](https://github.com/terryum/awesome-deep-learning-papers)
 
-## Tutorials
-
-## Blogs
+## Other
 * [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
 * [Colah's Blog](https://colah.github.io/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
