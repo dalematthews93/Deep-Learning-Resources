@@ -6,7 +6,7 @@
 * [Introduction to Neural Networks](http://neuralnetworksanddeeplearning.com) - provides a thorough introduction to neural networks which can serve as a stepping stone to more advanced material
 * **Udacity**
 
-   Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects. I'm not a huge fan of what I've seen so far of the lectures since they don't seem to cover much theory. I think the projects are probably great but you have to pay for those.
+   Udacity offer several courses on machine learning. Most of the lecture materials are free while you have to pay to access some of the projects. I'm not a huge fan of what I've seen so far of the lectures since they seem to cover very little theory. I think the projects are probably great but you have to pay for those.
    
     * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
     * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
