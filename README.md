@@ -62,12 +62,12 @@
 * [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 * [Khan Academy](https://www.khanacademy.org)
     * [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
-    * [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
-    * [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-    * [Precalculus](https://www.youtube.com/playlist?list=PLE88E3C9C7791BD2D)
-    * [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
-    * [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902)
-    * [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
+    * [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) and [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+    * Calculus
+        * [Precalculus](https://www.youtube.com/playlist?list=PLE88E3C9C7791BD2D)
+        * [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
+        * [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902)
+        * [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
 ## Papers
 * [Curated list of most cited papers and links to other repos of papers for beginners etc](https://github.com/terryum/awesome-deep-learning-papers)
