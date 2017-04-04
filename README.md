@@ -67,10 +67,8 @@
 * [r/MachineLearning](https://www.reddit.com/r/machinelearning)
 * [r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
 
-## Papers
-* [Curated list of most cited papers and links to other repos of papers for beginners etc](https://github.com/terryum/awesome-deep-learning-papers)
-
 ## Other
 * [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
 * [Colah's Blog](https://colah.github.io/)
 * [Neural Networks eBook](http://neuralnetworksanddeeplearning.com)
+* [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
