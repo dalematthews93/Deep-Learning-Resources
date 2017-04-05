@@ -7,6 +7,7 @@
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+* [Neural Networks by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 ## Math
 
@@ -17,17 +18,19 @@ Most of the intermediate materials require an understanding of statistics and pr
 ### Books
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
-* [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+* [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
+* [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 
 ### Deep Learning Courses
 
+* [CS231N Convolutional Neural Networks - Andrej Kaparthy](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 * [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman]
    [Invited Talks MIT Deep Learning for Self Driving Cars ]
 * [Deep Learning for NLP at Oxford with Deep Mind 2017](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
-* [Convolutional Neural Networks - Andrej Kaparthy (OpenAI)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
-* [Neural Networks — Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
 * [Neural Networks — Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 * [Deep Learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Deep Reinforcement Learning - UC Berkeley 2017 - John Schulman OpenAI](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
