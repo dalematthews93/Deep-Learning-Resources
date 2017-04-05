@@ -1,14 +1,11 @@
 ## Beginners
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
-* **Udacity**
-    * [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
-    * Georgia Tech - three part course on supervised learning ([Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) and [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)), [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) and [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
-   * [Deep Learning by Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
+* [Udacity](https://www.udacity.com/nanodegree) have a number of 'nanodegree' courses in machine learning and data science suitable for beginners. 
 
 ## Math
 
@@ -19,11 +16,11 @@ Most of the intermediate materials require an understanding of statistics and pr
 ### Books
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
-* [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
-* [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
+* [Information Theory, Inference and Learning Algorithms by David MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 
 ### Deep Learning
 
@@ -46,9 +43,6 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Caltech CS156 Learning from Data with Professor Yaser Abu-Mostafa](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 * [Machine Learning - Nando de Freitas - 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 * [Undergraduate Machine Learning - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-* [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/playlist?list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
-* [Andrew Ng Stanford Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
-* [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
 
 ## Blogs
 
