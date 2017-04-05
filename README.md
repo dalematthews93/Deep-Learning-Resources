@@ -14,10 +14,12 @@ Most of the intermediate materials require an understanding of statistics and pr
 
 ## Intermediate
 
-* [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
-* [Murphy - Machine Learning: A Probabilistic Perspective](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
-* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
-* [Bishop - Pattern Reconition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+### Books
+
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
+* [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
+* [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+* [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ###
 
