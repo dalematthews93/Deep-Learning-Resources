@@ -5,8 +5,8 @@
     * Georgia Tech - three part course on supervised learning ([Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) and [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)), [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) and [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
    * [Deep Learning by Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
-* [Machine Learning by Andrew Ng (Coursera)](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
-* [An Introduction to Statistical Learning - James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+* [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
+* [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
 ## Math
 
@@ -15,15 +15,14 @@ Most of the intermediate materials require an understanding of statistics and pr
 ## Intermediate
 
 * [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
-* [Bishop - Pattern Reconition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Murphy - Machine Learning: A Probabilistic Perspective](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+* [Bishop - Pattern Reconition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
-## Advanced
+###
 
-* [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) - very beginner friendly series of five lectures that introduces neural networks and different architectures including convolutional neural networks, recurrent neural networks and long short term memory neural networks and some of their applications and the most exciting and impressive results of the last couple of years
-
-    [Invited Talks MIT Deep Learning for Self Driving Cars ](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW) - talks from a number of the most respected researchers in deep learning
+* [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman]
+   [Invited Talks MIT Deep Learning for Self Driving Cars ]
 * [Deep Learning for NLP at Oxford with Deep Mind 2017](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Convolutional Neural Networks - Andrej Kaparthy (OpenAI)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 * [Neural Networks — Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -56,3 +55,5 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
 * [Colah's Blog](https://colah.github.io/)
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+## Advanced
