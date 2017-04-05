@@ -8,7 +8,7 @@
 * [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-* [Neural Networks by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 
 ## Math
 
@@ -43,8 +43,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 
 ### Machine Learning
 
-* [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
-* [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
+* [Caltech CS156 Learning from Data with Professor Yaser Abu-Mostafa](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 * [Machine Learning - Nando de Freitas - 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 * [Undergraduate Machine Learning - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
 * [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/playlist?list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
