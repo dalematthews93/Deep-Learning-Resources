@@ -30,7 +30,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Deep Learning NLP at Stanford (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
-* Deep Reinforcement Learning
+* Reinforcement Learning
    * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
    * [Deep Reinforcement Learning with John Schulman (2016)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
    * [Reinforcement Learning with David Silver (2015)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
