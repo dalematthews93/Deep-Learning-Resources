@@ -6,6 +6,7 @@
    * [Deep Learning by Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
+* [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Neural Networks by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
@@ -13,7 +14,7 @@
 
 Most of the intermediate materials require an understanding of statistics and probability, linear algebra and calculus. There are many resources for these topics including [Khan Academy](https://www.khanacademy.org) and [MIT OpenCourseWare](https://ocw.mit.edu/).
 
-## Intermediate
+## Intermediate to Advanced
 
 ### Books
 
@@ -50,14 +51,26 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Andrew Ng Stanford Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 * [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
 
+
+## Blogs
+* [Andrej Kaparthy's blog](https://karpathy.github.io/)
+* [Colah's blog](https://colah.github.io/)
+* [WildML's blog](http://www.wildml.com/)
+* [iamtrask's blog](https://iamtrask.github.io/)
+* [fast.ai](https://www.fast.ai)
+* [FastML](http://fastml.com/)
+* [Talking Machines podcast](http://www.thetalkingmachines.com/)
+
+* [Kaggle](https://www.kaggle.com/)
+* [TensorFlow](https://www.tensorflow.org/)
+
+## Collections of Tutorials and Resources
+* [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
+* [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+* [Deep Learning Resources](https://deeplearning4j.org/deeplearningpapers.html)
+
 ## Social Media
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/machinelearning)
 * [reddit.com/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
-
-## Other
-* [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
-* [Colah's Blog](https://colah.github.io/)
-* [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-
-## Advanced
