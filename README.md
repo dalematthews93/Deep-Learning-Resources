@@ -25,7 +25,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 
-### Deep Learning Courses
+### Deep Learning
 
 * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2015)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 * [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)]
@@ -41,7 +41,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Deep Learning NLP at Stanford (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 * [Neural Networks with Geoffrey Hinton on Coursera(2016)](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
-### General Machine Learning Courses
+### Machine Learning
 
 * [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 * [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
