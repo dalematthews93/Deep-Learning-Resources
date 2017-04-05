@@ -36,7 +36,6 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Deep Learning Summer School at University of Montreal (2015)](http://videolectures.net/deeplearning2015_montreal/)
 * [Deep Learning, Feature Learning Playlist | Andrew Ng, Yann LeCun, Nando de Freitas, Hinton, Bengio](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA)
 * [Deep Learning NLP at Stanford (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
-* [Neural Networks with Geoffrey Hinton on Coursera(2016)](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 ### Machine Learning
 
