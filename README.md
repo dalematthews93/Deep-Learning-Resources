@@ -23,7 +23,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 * [Information Theory, Inference and Learning Algorithms by David MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 
-### Deep Learning
+### Courses
 
 * Deep Learning
    * [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
