@@ -26,20 +26,19 @@ Most of the intermediate materials require an understanding of statistics and pr
 
 ### Deep Learning Courses
 
-* [CS231N Convolutional Neural Networks - Andrej Kaparthy](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
-* [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman]
-   [Invited Talks MIT Deep Learning for Self Driving Cars ]
-* [Deep Learning for NLP at Oxford with Deep Mind 2017](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
-
-* [Neural Networks — Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-* [Deep Learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-* [Deep Reinforcement Learning - UC Berkeley 2017 - John Schulman OpenAI](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
-* [Reinforcement Learning Course by David Silver of DeepMind 2015](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-* [Deep Reinforcement Learning John Schulman 2016](https://www.youtube.com/watch?v=aUrX-rP_ss4)
-* [2016 Deep Learning Summer School Montreal](http://videolectures.net/deeplearning2016_montreal/)
-* [2015 Talks on Deep Learning, Feature Learning | Geoffrey Hinton, Andrew Ng, Yann LeCun, Yoshua Bengio, Nando de Freitas, others](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA)
-* [2015 Deep Learning Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
-* [Stanford Deep Learning NLP (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+* [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2015)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
+* [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)]
+   [Invited Talks MIT Deep Learning for Self Driving Cars (2017)]
+* [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+* [Deep Reinforcement Learning with John Schulman (2016)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
+* [Reinforcement Learning with David Silver (2015)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+* [Deep Learning Summer School at University of Montreal (2016)](http://videolectures.net/deeplearning2016_montreal/)
+* [Deep Learning Summer School at University of Montreal (2015)](http://videolectures.net/deeplearning2015_montreal/)
+* [Deep Learning, Feature Learning Playlist | Andrew Ng, Yann LeCun, Nando de Freitas, Hinton, Bengio](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA)
+* [Deep Learning NLP at Stanford (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+* [Neural Networks with Geoffrey Hinton on Coursera(2016)](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 ### General Machine Learning Courses
 
