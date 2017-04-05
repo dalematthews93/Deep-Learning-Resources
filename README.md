@@ -51,8 +51,8 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Andrew Ng Stanford Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 * [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
 
-
 ## Blogs
+
 * [Andrej Kaparthy's blog](https://karpathy.github.io/)
 * [Colah's blog](https://colah.github.io/)
 * [WildML's blog](http://www.wildml.com/)
@@ -61,14 +61,15 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [FastML](http://fastml.com/)
 * [Talking Machines podcast](http://www.thetalkingmachines.com/)
 
-* [Kaggle](https://www.kaggle.com/)
-* [TensorFlow](https://www.tensorflow.org/)
-
 ## Collections of Tutorials and Resources
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 * [Deep Learning Resources](https://deeplearning4j.org/deeplearningpapers.html)
+
+## Other
+* [Kaggle](https://www.kaggle.com/)
+* [TensorFlow](https://www.tensorflow.org/)
 
 ## Social Media
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
