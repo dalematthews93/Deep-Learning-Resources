@@ -27,7 +27,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 
 ### Deep Learning
 
-* [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2015)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
+* [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 * [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)]
    [Invited Talks MIT Deep Learning for Self Driving Cars (2017)]
 * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
