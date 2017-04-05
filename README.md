@@ -12,37 +12,19 @@
         * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
     * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 
-#### Math
-* [Khan Academy](https://www.khanacademy.org)
-    * [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
-    * [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) and [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-    * Calculus
-        * [Precalculus](https://www.youtube.com/playlist?list=PLE88E3C9C7791BD2D)
-        * [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
-        * [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902)
-        * [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
-* [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+## Math
 
-## Books
+Most of the intermediate materials require an understanding of statistics and probability, linear algebra and calculus. There are many resources for these topics including [Khan Academy](https://www.khanacademy.org) and [MIT OpenCourseWare](https://ocw.mit.edu/).
+
+## Intermediate
 
 * [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
 * [Bishop - Pattern Reconition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Murphy - Machine Learning: A Probabilistic Perspective](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
-## Video
+## Advanced
 
-**General Introductory Machine Learning Courses:**
-
-* [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
-* [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
-* [Machine Learning - Nando de Freitas - 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
-* [Undergraduate Machine Learning - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-* [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/playlist?list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
-* [Andrew Ng Stanford Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
-* [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
-
-**Deep Learning:**
 * [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) - very beginner friendly series of five lectures that introduces neural networks and different architectures including convolutional neural networks, recurrent neural networks and long short term memory neural networks and some of their applications and the most exciting and impressive results of the last couple of years
 
     [Invited Talks MIT Deep Learning for Self Driving Cars ](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW) - talks from a number of the most respected researchers in deep learning
@@ -59,13 +41,22 @@
 * [2015 Deep Learning Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
 * [Stanford Deep Learning NLP (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 
+**General Introductory Machine Learning Courses:**
+
+* [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+* [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
+* [Machine Learning - Nando de Freitas - 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+* [Undergraduate Machine Learning - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+* [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/playlist?list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
+* [Andrew Ng Stanford Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+* [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)
+
 ## Social Media
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
-* [r/MachineLearning](https://www.reddit.com/r/machinelearning)
-* [r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
+* [reddit.com/r/MachineLearning](https://www.reddit.com/r/machinelearning)
+* [reddit.com/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
 
 ## Other
 * [Andrej Kaparthy's blog, OpenAI](https://karpathy.github.io/)
 * [Colah's Blog](https://colah.github.io/)
-
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
