@@ -5,7 +5,7 @@
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'. Some of the courses are accessible for free and on their [YouTube page](https://www.youtube.com/user/Udacity/playlists)
+* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'.
 * [Caltech CS156 Learning from Data with Professor Yaser Abu-Mostafa](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 
 ## Math
