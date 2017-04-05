@@ -4,13 +4,8 @@
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * **Udacity**
     * [Intro to Machine Learning (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
-    * Georgia Tech - three part course on supervised, unsupervised and reinforcement learning
-        * Supvervised Learning 
-            * [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo)
-            * [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)
-        * [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7)
-        * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
-    * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
+    * Georgia Tech - three part course on supervised learning ([Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) and [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)), [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) and [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
+   * [Deep Learning - Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 
 ## Math
 
