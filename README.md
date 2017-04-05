@@ -5,7 +5,7 @@
     * Georgia Tech - three part course on supervised learning ([Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) and [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)), [Unsupervised Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) and [Reinforcement Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
    * [Deep Learning by Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
-* [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP)
+* [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
