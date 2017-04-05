@@ -21,7 +21,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
-###
+### Deep Learning Courses
 
 * [MIT Deep Learning for Self Driving Cars 2017 Lex Fridman]
    [Invited Talks MIT Deep Learning for Self Driving Cars ]
@@ -38,7 +38,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [2015 Deep Learning Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
 * [Stanford Deep Learning NLP (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 
-**General Introductory Machine Learning Courses:**
+### General Machine Learning Courses
 
 * [Caltech - Learning from Data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 * [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - a playlist of close to 100 videos on different topics in statistical machine learning
