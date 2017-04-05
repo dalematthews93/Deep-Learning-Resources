@@ -6,7 +6,6 @@
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 * [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'.
-* [Caltech CS156 Learning from Data with Professor Yaser Abu-Mostafa](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 
 ## Math
 
