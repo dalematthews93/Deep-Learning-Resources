@@ -44,16 +44,9 @@ Most of the intermediate materials require an understanding of statistics and pr
 
 ## Blogs
 
-* [Andrej Kaparthy's blog](https://karpathy.github.io/)
-* [Colah's blog](https://colah.github.io/)
-* [WildML's blog](http://www.wildml.com/)
-* [iamtrask's blog](https://iamtrask.github.io/)
-* [fast.ai](https://www.fast.ai)
-* [FastML](http://fastml.com/)
-* [Talking Machines podcast](http://www.thetalkingmachines.com/)
+
 
 ## Collections of Tutorials and Resources
-* [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 * [Deep Learning Resources](https://deeplearning4j.org/deeplearningpapers.html)
@@ -66,3 +59,4 @@ Most of the intermediate materials require an understanding of statistics and pr
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/machinelearning)
 * [reddit.com/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
+* Talling Machines Podcast
