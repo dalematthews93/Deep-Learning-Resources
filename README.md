@@ -37,14 +37,6 @@ Most of the intermediate materials require an understanding of statistics and pr
    * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
    * [Deep Reinforcement Learning with John Schulman (2016)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
    * [Reinforcement Learning with David Silver (2015)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-* Summer Schools
-   * [Deep Learning Summer School at University of Montreal (2016)](http://videolectures.net/deeplearning2016_montreal/)
-   * [Deep Learning Summer School at University of Montreal (2015)](http://videolectures.net/deeplearning2015_montreal/)
-   * [Deep Learning, Feature Learning Playlist | Andrew Ng, Yann LeCun, Nando de Freitas, Hinton, Bengio](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA)
-
-## Blogs
-
-
 
 ## Collections of Tutorials and Resources
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
@@ -54,6 +46,7 @@ Most of the intermediate materials require an understanding of statistics and pr
 ## Other
 * [Kaggle](https://www.kaggle.com/)
 * [TensorFlow](https://www.tensorflow.org/)
+* Numpy, pandas, sklearn
 
 ## Social Media
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
