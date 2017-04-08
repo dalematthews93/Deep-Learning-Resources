@@ -5,6 +5,10 @@
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) - the canonical machine learning online course. The theory and videos are great but the assignments use Matlab which is not very popular these days. ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - "One book which I think is particularly good for beginners" - Kevin Murphy. There is also an online course by the authors which follows the book [here](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+ * [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
+    [Invited Talks MIT Deep Learning for Self Driving Cars (2017)](https://www.youtube.com/watch?v=oGk1v1jQITw&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW&index=3)
+* [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 
 ## Math
 
@@ -22,18 +26,10 @@ The most relevant areas of math to machine learning are statistics and probabili
 
 ### Courses
 
-* Deep Learning
-   * [MIT Deep Learning for Self Driving Cars with Lex Fridman (2017)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-   
-      [Invited Talks MIT Deep Learning for Self Driving Cars (2017)](https://www.youtube.com/watch?v=oGk1v1jQITw&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW&index=3)
-   * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
-   * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-   * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
-  * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-* Reinforcement Learning
-   * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
-   * [Deep Reinforcement Learning with John Schulman (2016)](https://www.youtube.com/watch?v=aUrX-rP_ss4)
-   * [Reinforcement Learning with David Silver (2015)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+ * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
+ * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+ * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 
 ## Collections of Tutorials and Resources
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
