@@ -5,7 +5,7 @@
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
 * [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'.
+* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'. If you are a student you can get one month free with the [GitHub Student Developer Pack](https://education.github.com/pack). Some videos are available for free on Udacity's YouTube page.
 
 ## Math
 
@@ -31,7 +31,6 @@ The most relevant areas of math to machine learning are statistics and probabili
    * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
    * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
    * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
-   * [Deep Learning NLP at Stanford (2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
   * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 * Reinforcement Learning
    * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
@@ -52,4 +51,3 @@ The most relevant areas of math to machine learning are statistics and probabili
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/machinelearning)
 * [reddit.com/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning)
-* Talling Machines Podcast
