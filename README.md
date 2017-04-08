@@ -1,5 +1,5 @@
 ## Beginners
-* [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+* [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - if you know absolutely nothing about machine learning start here
 * [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees' such as the 'Machine Learning Engineer' nanodegree. If you are a university student you can get one month free with the [GitHub Student Developer Pack](https://education.github.com/pack). Some videos are also available for free on Udacity's YouTube page.
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) - new book that is getting a lot of great feedback, you can access it via www.safaribooksonline.com where you can sign up for a free trial
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
