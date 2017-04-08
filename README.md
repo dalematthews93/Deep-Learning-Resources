@@ -19,7 +19,6 @@ The most relevant areas of math to machine learning are statistics and probabili
 * [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
-* [Information Theory, Inference and Learning Algorithms by David MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 
 ### Courses
 
