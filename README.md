@@ -3,7 +3,6 @@
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) - new book that is getting a lot of great feedback, you can access it via www.safaribooksonline.com where you can sign up for a free trial
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
-* [Machine Learning with Python by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 * [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees'. If you are a student you can get one month free with the [GitHub Student Developer Pack](https://education.github.com/pack). Some videos are available for free on Udacity's YouTube page.
 
