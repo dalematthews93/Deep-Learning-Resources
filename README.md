@@ -8,7 +8,7 @@
 
 ## Math
 
-The most relevant areas of math to machine learning are statistics and probability, linear algebra and calculus. There are many resources for these topics. I would highly recommend Khan Academy. Other options are [MIT OpenCourseWare](https://ocw.mit.edu/), edX, Coursera and Udacity.
+The most relevant areas of math to machine learning are statistics and probability, linear algebra and calculus. There are many resources for these topics. I would highly recommend Khan Academy. Other options are [MIT OpenCourseWare](https://ocw.mit.edu/), [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/).
 
 ## Intermediate to Advanced
 
