@@ -1,4 +1,4 @@
-## Beginners
+## Level 1
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - if you know absolutely nothing about machine learning start here
 * [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees' such as the 'Machine Learning Engineer' nanodegree. If you are a university student you can get one month free with the [GitHub Student Developer Pack](https://education.github.com/pack). Some videos are also available for free on Udacity's YouTube page.
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) - new book that is getting a lot of great feedback, you can access it via www.safaribooksonline.com where you can sign up for a free trial
@@ -10,13 +10,11 @@
     [Invited Talks MIT Deep Learning for Self Driving Cars (2017)](https://www.youtube.com/watch?v=oGk1v1jQITw&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW&index=3)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 
-## Math
+## Level 2
 
-The most relevant areas of math to machine learning are statistics and probability, linear algebra and calculus. There are many resources for these topics. I would highly recommend [Khan Academy](https://www.khanacademy.org/). Other options are [MIT OpenCourseWare](https://ocw.mit.edu/), [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/).
+ * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
-## Intermediate
-
-### Books
+## Level 3
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
 * [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
@@ -24,12 +22,13 @@ The most relevant areas of math to machine learning are statistics and probabili
 * [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 
-### Courses
-
- * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
- * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
- * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+
+## Math
+
+The most relevant areas of math to machine learning are statistics and probability, linear algebra and calculus. There are many resources for these topics. I would highly recommend [Khan Academy](https://www.khanacademy.org/). Other options are [MIT OpenCourseWare](https://ocw.mit.edu/), [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/).
 
 ## Collections of Tutorials and Resources
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials)
