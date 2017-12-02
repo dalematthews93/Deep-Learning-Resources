@@ -1,6 +1,6 @@
-## Level 1
 * [Berkeley Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) - if you know absolutely nothing about machine learning start here
-* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees' such as the 'Machine Learning Engineer' nanodegree. If you are a university student you can get one month free with the [GitHub Student Developer Pack](https://education.github.com/pack). Some videos are also available for free on Udacity's YouTube page.
+* [Udacity](https://www.udacity.com/nanodegree) have a number of paid 'nanodegrees' such as the 'Machine Learning Engineer' nanodegree. 
+
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/). This is a new book that is already proving to be quite popular. It is a good introduction to Python libraries like Numpy, Pandas, matplotlib, sklearn and TensorFlow. You can access it via www.safaribooksonline.com where you can sign up for a free trial.
 * [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning). This is considered by many to be the canonical machine learning online course. Originally created in 2011 by Andrew Ng the course is still very popular and highly recommended by many. The theory and videos are fantastic but the assignments feel a bit dated using Matlab which is not very popular these days. ([YouTube Playlist](https://www.youtube.com/playlist?list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP))
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com). This free online book was written for those who are new to machine learning and specifically is focussed on neural networks. If you don't yet have the mathematical background to get through the [Deep Learning book](http://www.deeplearningbook.org/) then this book can give you a taste. 
@@ -10,20 +10,22 @@
     [Invited Talks MIT Deep Learning for Self Driving Cars (2017)](https://www.youtube.com/watch?v=oGk1v1jQITw&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW&index=3)
 * [Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 
-## Level 2
-
  * [CS231N Convolutional Neural Networks with Andrej Kaparthy at Stanford (2016)](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
-## Level 3
-
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/) — "the only comprehensive book on the subject.” — Elon Musk
+
 * [Machine Learning: A Probabilistic Perspective by Kevin Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
+
 * [Pattern Reconition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
 * [Elements of Statistical Learning  by James, Witten, Hastie, Tibshirani](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 
 * [Deep Learning with Nando de Freitas at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
 * [Deep Learning for NLP at Oxford with Deep Mind (2017)](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+
 * [Deep Reinforcement Learning with John Schulman at Berkeley (2017)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 
 ## Math
@@ -38,7 +40,6 @@ The most relevant areas of math to machine learning are statistics and probabili
 ## Other
 * [Kaggle](https://www.kaggle.com/)
 * [TensorFlow](https://www.tensorflow.org/)
-* Numpy, pandas, sklearn
 
 ## Social Media
 * [Twitter List](https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members)
